@@ -10,7 +10,7 @@ function Store() {
 
   return (
     <main>
-      <h1>{store.name}</h1>
+      <h1 style={{marginTop: "3rem"}}>{store.name}</h1>
       <div className="product-list">
         {store.products.map((product) => (
           <ProductCard key={product.id} product={product} store={store} />
