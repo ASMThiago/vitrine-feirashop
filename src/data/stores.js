@@ -36,7 +36,7 @@ export default {
     {
       id: "mundo-jeans",
       name: "Mundo Jeans",
-      whatsapp: "5531987654321",
+      whatsapp: "5531991234567",
       products: [
         {
           id: "jaqueta-jeans",
