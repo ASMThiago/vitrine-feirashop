@@ -106,12 +106,13 @@ h1, h2, h3 {
 .store-card a,
 .buy-button {
   margin-top: 1rem;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0rem;
   background-color: var(--accent-color);
   color: white;
   text-decoration: none;
   border-radius: 6px;
   font-weight: bold;
+  width: 300px;
 }
 
 /* Componentes do WhatsApp */
